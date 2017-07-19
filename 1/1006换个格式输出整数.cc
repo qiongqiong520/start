@@ -11,7 +11,7 @@ using namespace std;
 int main(int argc,char* argv[])
 {
 	int num;
-	char output[]={'1','2','3','4','5','6','7','8','9','s','b'};
+	char output[]={'1','2','3','4','5','6','7','8','9','S','B'};
 	while(cin>>num)
 	{
 		int i=0;
